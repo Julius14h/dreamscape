@@ -1,4 +1,6 @@
+"use client";
 import DreamInput from "./three-doors/DreamInput";
+import Doors from "./three-doors/Doors";
 
 export default function Home() {
   return (
@@ -12,7 +14,7 @@ export default function Home() {
       }}
     >
       <div className="relative z-10">
-        <DreamInput />
+        <Doors />
       </div>
     </main>
   );
