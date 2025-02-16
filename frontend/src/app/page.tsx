@@ -1,4 +1,7 @@
+"use client";
 import DreamInput from "./three-doors/DreamInput";
+import Doors from "./three-doors/Doors";
+import Login from "./three-doors/loginpage";
 
 export default function Home() {
   return (

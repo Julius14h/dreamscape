@@ -19,3 +19,9 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+body, html { /* Target both body and html */
+  margin: 0;
+  padding: 0;
+  height: 100%; /* Ensure full viewport height */
+}
