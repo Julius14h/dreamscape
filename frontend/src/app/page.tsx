@@ -1,6 +1,7 @@
 "use client";
 import DreamInput from "./three-doors/DreamInput";
 import Doors from "./three-doors/Doors";
+import Login from "./three-doors/loginpage";
 
 export default function Home() {
   return (
@@ -14,7 +15,7 @@ export default function Home() {
       }}
     >
       <div className="relative z-10">
-        <Doors />
+        <Login />
       </div>
     </main>
   );
