@@ -2,6 +2,7 @@
 import DreamInput from "./three-doors/DreamInput";
 import Doors from "./three-doors/Doors";
 import Login from "./three-doors/loginpage";
+import Entries from "./three-doors/Entries";
 
 export default function Home() {
   return (
@@ -15,7 +16,7 @@ export default function Home() {
       }}
     >
       <div className="relative z-10">
-        <DreamInput />
+        <Entries />
       </div>
     </main>
   );
