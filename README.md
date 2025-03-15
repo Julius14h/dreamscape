@@ -57,7 +57,6 @@ If continued, I’d:
 - **Me**: Backend database and API development.
 
 ## Links
-- [Deerhacks IV 2025 Submission](#) (https://devpost.com/software/dreamspace?ref_content=user-portfolio&ref_feature=in_progress)
-
+- *[Deerhacks IV 2025 Submission](https://devpost.com/software/dreamspace?ref_content=user-portfolio&ref_feature=in_progress)*
 ---
 *Built in 36 hours for Deerhacks IV 2025 🚀✨
