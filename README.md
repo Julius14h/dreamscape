@@ -1,8 +1,10 @@
 # DreamScape: A Journey of Self-Discovery Through Your Dreams
-
+![dreamscape homepage](dreamscape-home.png)
 ## Overview
 *DreamScape* is a full-stack web application built for Deerhacks IV 2025 that helps users analyze their dreams through AI-powered interpretations. Users can input dreams via text or speech and receive three unique perspectives: psychological (Mind Door 🧠), symbolic (Spirit Door 🔮), and actionable (Action Door ⚡). This project was developed in a 24-hour hackathon by a collaborative team.
 
+
+![dreamscape doors](dreamscape-dream.png)
 ## My Contribution
 For *DreamScape*, I focused on designing and implementing the backend infrastructure for user management and dream logging, although time constraints prevented full integration into the final product. My contributions include:
 
