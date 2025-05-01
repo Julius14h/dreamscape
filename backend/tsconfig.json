@@ -2,7 +2,7 @@
   "extends": "../frontend/tsconfig.json",
   "compilerOptions": {
     "outDir": "./dist",
-    "rootDir": "./src",
+    "rootDir": ".",
     "baseUrl": ".",
     "paths": {
       "@utils/*": [
@@ -11,8 +11,7 @@
     }
   },
   "include": [
-    "src/**/*",
-    ".next/types/**/*.ts"
+    "src/**/*"
   ],
   "exclude": [
     "node_modules"
